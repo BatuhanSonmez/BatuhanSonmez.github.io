@@ -1,2 +1,3 @@
-# BatuhanSonmez.github.io
-This is my personal portfolio website's repository.
+# batuhansonmez.github.io
+
+My Personal Website & Portfolio
